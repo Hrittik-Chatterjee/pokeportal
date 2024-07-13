@@ -1,8 +1,10 @@
-# React + Vite
+Pokemon React App
+This React application fetches data from the PokeAPI to display Pokémon information in cards with images. It includes a search functionality to filter Pokémon by name.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features:
+Fetches Pokémon data from the PokeAPI (https://pokeapi.co/api/v2/pokemon).
+Displays Pokémon names and corresponding images in responsive cards.
+Allows users to search for Pokémon by name.
+Technologies Used:
+React.js
+Tailwind CSS for styling
